@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("이러다가 나 미쳐");
 		System.out.println("무한 반복 되는거 쉽지않아ㅏㅏㅏ");
 		System.out.println("이야이야호");
+		System.out.println("3번 커밋")
 	}
 }
